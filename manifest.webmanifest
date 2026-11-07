@@ -1,0 +1,11 @@
+{
+  "name": "PrepPilot — BCS Preparation",
+  "short_name": "PrepPilot",
+  "description": "A focused study planner for BCS and government job preparation.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#10121b",
+  "theme_color": "#10121b",
+  "icons": []
+}
